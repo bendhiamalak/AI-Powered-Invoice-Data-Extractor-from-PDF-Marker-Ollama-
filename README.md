@@ -5,7 +5,13 @@ It tests **three local LLMs** — **LLaMA 3**, **Mistral**, and **Phi-3** — to
 In our evaluation, **LLaMA 3 produced the most consistent and accurate results**.
 
 ---
+## 🎥 Demo
 
+Here is an example output from each model:
+
+👉 ![AI Invoice Data Extractor](./demo.gif)
+
+---
 ## 🚀 Features
 - **Multi-model comparison** (LLaMA 3, Mistral, Phi-3)  
 - Works **100% offline** with local models via [Ollama](https://ollama.com/)  
