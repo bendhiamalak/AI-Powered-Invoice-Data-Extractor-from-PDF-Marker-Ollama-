@@ -1,0 +1,72 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FACTURE N\u00b0:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          17.984886649874056,
+          215.12210338680927
+        ],
+        [
+          122.89672544080605,
+          215.12210338680927
+        ],
+        [
+          122.89672544080605,
+          237.18315821886063
+        ],
+        [
+          17.709205597639084,
+          238.82573634386063
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          142
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\factureOffice"
+}
