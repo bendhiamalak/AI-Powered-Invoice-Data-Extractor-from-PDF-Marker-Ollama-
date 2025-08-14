@@ -36,7 +36,7 @@ In our evaluation, **LLaMA 3 produced the most consistent and accurate results**
        "MF_CLIENT": "",
        "MF_FOURNISSEUR": ""
    }
-```
+
 
 ## ⚙️ Installation & Usage
 
