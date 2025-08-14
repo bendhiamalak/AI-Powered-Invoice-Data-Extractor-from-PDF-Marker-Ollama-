@@ -40,17 +40,17 @@ In our evaluation, **LLaMA 3 produced the most consistent and accurate results**
 
 ## 🛠 How It Works
 1️⃣ Install Ollama and download the models
-  ```json
+```bash
 ollama pull llama3
 ollama pull mistral
 ollama pull phi3
 ```
 2️⃣ Install Marker (for PDF → Markdown)
-  ```json
+```bash
 pip install marker-pdf
 ```
 Convert your invoice PDF to Markdown:
-  ```json
+```bash
 marker invoice.pdf facture.md
 ```
 
