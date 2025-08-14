@@ -36,3 +36,21 @@ In our evaluation, **LLaMA 3 produced the most consistent and accurate results**
        "MF_CLIENT": "",
        "MF_FOURNISSEUR": ""
    }
+```
+
+## 🛠 How It Works
+1️⃣ Install Ollama and download the models
+  ```json
+ollama pull llama3
+ollama pull mistral
+ollama pull phi3
+```
+2️⃣ Install Marker (for PDF → Markdown)
+  ```json
+pip install marker-pdf
+```
+Convert your invoice PDF to Markdown:
+  ```json
+marker invoice.pdf facture.md
+```
+
