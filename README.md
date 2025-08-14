@@ -38,18 +38,24 @@ In our evaluation, **LLaMA 3 produced the most consistent and accurate results**
    }
 ```
 
-## 🛠 How It Works
-1️⃣ Install Ollama and download the models
+## ⚙️ Installation & Usage
+
+1️. Install Ollama and download the models
+
 ```bash
 ollama pull llama3
 ollama pull mistral
 ollama pull phi3
 ```
-2️⃣ Install Marker (for PDF → Markdown)
+
+2️. Install Marker (for PDF → Markdown)
+
 ```bash
 pip install marker-pdf
 ```
-Convert your invoice PDF to Markdown:
+
+3. Convert your invoice PDF to Markdown:
+   
 ```bash
 marker invoice.pdf facture.md
 ```
